@@ -1,3 +1,1 @@
-new line
-experiment with ammend
-new data
+Hexlet is cool!
